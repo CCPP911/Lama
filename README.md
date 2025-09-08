@@ -1,5 +1,5 @@
-# Telegram группа
-https://t.me/+TIXtgvGBBOc3ZTUy
+# Сам себе садамаза
+
 
 # Установка на linux
 спасибо @nikk, @Denis
